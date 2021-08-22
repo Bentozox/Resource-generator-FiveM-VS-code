@@ -1,0 +1,50 @@
+{
+	"name": "resource-generator-fivem",
+	"displayName": "resource-generator-fivem",
+	"description": "This extention help you creating a new basic lua resource",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.59.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:resource-generator-fivem.generate-resource"
+	],
+	"main": "./extension.js",
+	"files": [
+		"template/fxmanifest.lua"
+	],
+	"directories": {},
+	"contributes": {
+		"commands": [
+			{
+				"command": "resource-generator-fivem.generate-resource",
+				"title": "Generate FiveM resource"
+			}
+		],
+    "menus": {
+				"explorer/context": [{
+						"when": "explorerResourceIsFolder",
+						"command": "resource-generator-fivem.generate-resource"
+			}]
+		}
+	},
+	"scripts": {
+		"lint": "eslint .",
+		"pretest": "npm run lint",
+		"test": "node ./test/runTest.js"
+	},
+	"devDependencies": {
+		"@types/vscode": "^1.59.0",
+		"@types/glob": "^7.1.3",
+		"@types/mocha": "^8.2.2",
+		"@types/node": "14.x",
+		"eslint": "^7.27.0",
+		"glob": "^7.1.7",
+		"mocha": "^8.4.0",
+		"typescript": "^4.3.2",
+		"vscode-test": "^1.5.2"
+	}
+}
