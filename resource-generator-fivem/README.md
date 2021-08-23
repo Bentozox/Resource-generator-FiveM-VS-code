@@ -2,20 +2,25 @@
 
 This extension help you creating a new basic lua resource for FiveM
 
+# Author & Contact
+ **I'm Bentozox.**
+  * Contact
+     * Discord : BENTOZOX#6743
+     * GitHub : https://github.com/Bentozox
+     * Twitter : https://twitter.com/Bentozox
+
+
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+ Here is an explanation of how to use this extension. Please do not forget to adding star on my GitHub project (= https://github.com/Bentozox/Resource-generator-FiveM-VS-code)
 
-For example if there is an image subfolder under your extension project workspace:
+  \!\[Preview\]\(images/video-preview.mp4\)
 
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 
     
 # Installation
-    Avalaible on VS code market place : 
+    Avalaible on VS code market place : https://marketplace.visualstudio.com/items?itemName=ResourceGeneratorFiveM.resource-generator-fivem
 
 # How to use it ?
     Using right click on Folder : 
@@ -36,6 +41,5 @@ First release of FiveM resource generator
 
 -----------------------------------------------------------------------------------------------------------
 
-## Working with Markdown
 
 **Enjoy!**

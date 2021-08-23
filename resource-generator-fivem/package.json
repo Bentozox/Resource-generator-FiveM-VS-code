@@ -10,6 +10,26 @@
 	"categories": [
 		"Other"
 	],
+	"author": {
+		"name": "Bentozox"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Bentozox/Resource-generator-FiveM-VS-code"
+	},
+	"icon": "./preview/fivem.png",
+	"homepage": "https://github.com/Bentozox/Resource-generator-FiveM-VS-code",
+	"license": "GPLv3",
+	"keywords": [
+		"fivem",
+		"lua",
+		"resource",
+		"script",
+		"Bentozox",
+		"gta",
+		"generator",
+		"générateur"
+	],
 	"activationEvents": [
 		"onCommand:resource-generator-fivem.generate-resource"
 	],
