@@ -1,4 +1,4 @@
-# resource-generator-fivem README
+# Resource Generator Fivem README
 
 This extension help you creating a new basic lua resource for FiveM
 
@@ -14,7 +14,7 @@ This extension help you creating a new basic lua resource for FiveM
 
  Here is an explanation of how to use this extension. Please do not forget to adding star on my GitHub project (= https://github.com/Bentozox/Resource-generator-FiveM-VS-code)
 
-  \!\[Preview\]\(images/video-preview.mp4\)
+  <img src="preview/video-preview.gif" width="800" >
 
 
 
