@@ -1,7 +1,7 @@
 {
 	"publisher": "ResourceGeneratorFiveM",
 	"name": "resource-generator-fivem",
-	"displayName": "resource-generator-fivem",
+	"displayName": "Resource Generator FiveM",
 	"description": "This extension help you creating a new basic lua resource for FiveM",
 	"version": "0.0.2",
 	"engines": {
