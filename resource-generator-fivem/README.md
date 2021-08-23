@@ -33,10 +33,6 @@ This extension help you creating a new basic lua resource for FiveM
       
 
 
-### 1.0.0
-
-First release of FiveM resource generator
-
 
 -----------------------------------------------------------------------------------------------------------
 
