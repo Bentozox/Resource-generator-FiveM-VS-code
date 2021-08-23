@@ -1,6 +1,6 @@
 # resource-generator-fivem README
 
-This is the README for your extension "resource-generator-fivem". After writing up a brief description, we recommend including the following sections.
+This extension help you creating a new basic lua resource for FiveM
 
 ## Features
 
@@ -37,7 +37,7 @@ Users appreciate release notes as you update your extension.
 
 ### 1.0.0
 
-Initial release of ...
+First release of FiveM resource generator
 
 ### 1.0.1
 
