@@ -73,8 +73,6 @@ function loadInputs(resource) {
 		InputData[key].input.placeholder = InputData[key].placeholder;
 	
 		InputData[key].input.onDidAccept(function() {
-			console.log(InputData[key].input.value.trim().length)
-			console.log("OK => " + InputData[key].input.value)
 			if (InputData[key].input.value.trim().length > 0) {
 				InputData[key].value = InputData[key].input.value
 
@@ -156,10 +154,8 @@ function writeFolder(url, folder) {
 	}
 
 
-	console.log(JSON.stringify(folder.folders));
 	for (const key in folder.folders) {
 		var fold = folder.folders[key]
-		console.log("2 : FOLDER")
 		mkdirSync(url  + "/" + folder.url + fold.url)
 
 		writeFolder(url  + "/" + folder.url + fold.url, fold)
