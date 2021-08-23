@@ -8,7 +8,7 @@
     This extension help you creating a new basic lua resource.
     
 # Installation
-    Avalaible on VS code market place : 
+    Avalaible on VS code market place : https://marketplace.visualstudio.com/items?itemName=ResourceGeneratorFiveM.resource-generator-fivem
 
 # How to use it ?
     Using right click on Folder : 
