@@ -19,6 +19,18 @@
       - Open the CMD with ``CTRL + Shift + P``;
       - Search for ``Generate FiveM resource`` and choose it;
       - Creation now starting. Follow the instructions one by one.
+
+
+  <img src="resource-generator-fivem/preview/video-preview.gif" width="800" >
       
 
-         
+     
+### 1.0.0
+
+First release of FiveM resource generator
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+**Enjoy!**    
