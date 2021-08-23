@@ -14,8 +14,7 @@ This extension help you creating a new basic lua resource for FiveM
 
  Here is an explanation of how to use this extension. Please do not forget to adding star on my GitHub project (= https://github.com/Bentozox/Resource-generator-FiveM-VS-code)
 
-  <img src="preview/video-preview.gif" width="800" >
-
+  <img src="https://github.com/Bentozox/Resource-generator-FiveM-VS-code/blob/master/resource-generator-fivem/preview/video-preview.gif?raw=true" width="800" >
 
 
     
