@@ -1,21 +1,19 @@
-fx_version "adamant"
-game "gta5"
+fx_version 'cerulean'
+game 'gta5'
 
 name "${resourceName}"
 description "${description}"
 author "${author}"
 version "${version}"
 
-
-
-
+shared_scripts {
+	'shared/*.lua'
+}
 
 client_scripts {
-	"shared/*.lua",
-	"client/*.lua"
+	'client/*.lua'
 }
 
 server_scripts {
-	"shared/*.lua",
-	"server/*.lua"
+	'server/*.lua'
 }
