@@ -3,7 +3,7 @@
 	"name": "resource-generator-fivem",
 	"displayName": "Resource Generator FiveM",
 	"description": "This extension help you creating a new basic lua resource for FiveM",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
